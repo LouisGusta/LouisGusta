@@ -10,8 +10,8 @@ Aqui você pode ver alguns dos meus projetos :D
 
 Também pode me conhecer melhor nesses links:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lu%C3%ADs%20Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Lu%C3%ADs-Gustavo/)](https://www.linkedin.com/in/luís-gustavo/){:target="_blank"} 
-[![Outlook Badge](https://img.shields.io/badge/-profissional.gustavo@outlook.com-6633cc?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:profissional.gustavo@outlook.com)](mailto:profissional.gustavo@outlook.com){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-Lu%C3%ADs%20Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Lu%C3%ADs-Gustavo/)](https://www.linkedin.com/in/luís-gustavo/?target=_blank) 
+[![Outlook Badge](https://img.shields.io/badge/-profissional.gustavo@outlook.com-6633cc?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:profissional.gustavo@outlook.com)](mailto:profissional.gustavo@outlook.com)
 
 
 <!--
