@@ -1,30 +1,32 @@
-<img align="right" src="Personal_goals_re_iow7.svg" width="280"/>
+### Olá 👋 Eu sou o Luís Gustavo
+#### e sou completamente apaixonado por tecnologia.
 
-### Olá 👋
+#### Estou criando um aplicativo usando React Native e Node.JS e atualmente trabalho como engenheiro de dados na GAVB Consulting.
 
-Me chamo Luís Gustavo e sou completamente apaixonado por tecnologia.
+#### Seja muito bem vindo ao meu mundo
 
-Me formei em Análise e Desenvolvimento de Sistema e atualmente trabalho como engenheiro de dados na Cadastra.
-
-Aqui você pode ver alguns dos meus projetos :D
-
-Também pode me conhecer melhor nesses links:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Lu%C3%ADs%20Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Lu%C3%ADs-Gustavo/)](https://www.linkedin.com/in/luís-gustavo/) 
-[![Outlook Badge](https://img.shields.io/badge/-profissional.gustavo@outlook.com-6633cc?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:profissional.gustavo@outlook.com)](mailto:profissional.gustavo@outlook.com)
-
-
-<!--
-**Rickemm/Rickemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LouisGusta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisGusta&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img align="right" height="180em" width="180em" src="Personal_goals_re_iow7.svg" />
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luis-React" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+  <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/louis.gustata" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:profissional.gustavo@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=Microsoft&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luís-gustavo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+![Snake animation](https://github.com/LouisGusta/LouisGusta/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
