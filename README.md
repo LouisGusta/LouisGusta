@@ -6,7 +6,7 @@
 #### Seja muito bem vindo ao meu mundo
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/LouisGusta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LouisGusta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisGusta&layout=compact&langs_count=8&theme=tokyonight"/>
   <img align="right" height="180em" width="180em" src="Personal_goals_re_iow7.svg" />
