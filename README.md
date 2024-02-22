@@ -1,7 +1,8 @@
 ### Olá 👋 Eu sou o Luís Gustavo
 #### e sou completamente apaixonado por tecnologia.
 
-#### Estou criando um aplicativo usando React Native e Node.JS e atualmente trabalho como engenheiro de dados na GAVB Consulting.
+#### Fiz um jogo usando React e Node.JS e atualmente trabalho como engenheiro de dados na GAVB Consulting.
+##### Conheça o meu jogo aqui: https://mazeonline.onrender.com/
 
 #### Seja muito bem vindo ao meu mundo
 
