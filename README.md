@@ -25,7 +25,7 @@
  
 <div> 
   <a href="https://instagram.com/louis.gustata" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:profissional.gustavo@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=Microsoft&logoColor=white" target="_blank"></a>
+  <a href = "mailto:profissional.gustavoborges@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=Microsoft&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luís-gustavo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/LouisGusta/LouisGusta/blob/output/github-contribution-grid-snake.svg)
