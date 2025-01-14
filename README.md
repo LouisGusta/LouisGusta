@@ -4,6 +4,8 @@
 #### Fiz um jogo usando React e Node.JS e atualmente trabalho como engenheiro de dados na Compass UOL.
 ##### Conheça o meu jogo aqui: https://mazeonline.onrender.com/
 
+##### Atualmente desenvolvendo um matchmaking para PVP no Elden Ring.
+
 #### Seja muito bem vindo ao meu mundo
 
 <div>
